@@ -72,27 +72,27 @@ a:hover {
 }
 
 .profile-info h1 {
-  margin: 0 0 8px;
+  margin: 0 0 4px;
   font-size: 42px;
   line-height: 1.15;
   letter-spacing: -0.5px;
 }
 
 .subtitle {
-  margin: 0;
+  margin: 2px 0;
   font-size: 20px;
   color: var(--accent);
   font-weight: 600;
 }
 
 .affiliation {
-  margin: 4px 0 18px;
+  margin: 2px 0;
   color: var(--muted);
 }
 
 .intro {
   max-width: 700px;
-  margin: 0 0 18px;
+  margin: 2px 0 10px;
 }
 
 .profile-links {
